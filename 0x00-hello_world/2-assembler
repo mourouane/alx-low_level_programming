@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s $CFILF
+gcc -S $CFILF -O 'echo $CFILE | cut -d. -f1' .s
