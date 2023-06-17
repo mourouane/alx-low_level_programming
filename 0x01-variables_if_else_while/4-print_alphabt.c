@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  * Description: print all letters except q and e
@@ -8,7 +7,6 @@
 int main(void)
 {
 char ch = 'a';
-
 while (ch <= 'z')
 {
 if (ch != 'e' && ch != 'q')
