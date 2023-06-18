@@ -1,6 +1,8 @@
 #include<stdio.h>
-/*
+/**
 * main - Entry point
+* Description: prints all possible different
+ combinations of two digits
 * Return: ALways 0 (Success)
 */
 int main(void)
