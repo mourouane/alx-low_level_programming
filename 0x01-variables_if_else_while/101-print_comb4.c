@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - Entry point
-* Descriptin: prints all possible different
+* Descriptin: prints all possible different of three digits
 * Return: Always 0 (Success)
 */
 int main(void)
